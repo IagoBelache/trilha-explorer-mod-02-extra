@@ -1,0 +1,34 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+.container {
+    width: 540px;
+    height: 107px;
+    text-align: center;
+    margin: 64px auto 32%;
+}
+h1 {
+    font-weight: normal;
+    color: #3F3D56;
+    margin-top: 32px;
+}
+span {
+    color: #EE24FF;
+}
+strong {
+    color: #3F3D56;
+}
+p {
+    color: #828282;
+    font-size: 15px;
+    line-height: 22px;
+    font-style: normal;
+    text-align: center;
+    font-family: 'Open Sans';
+}
+#footer {
+    margin-bottom: 0%;
+    width: 100%;
+    position: absolute;
+}
